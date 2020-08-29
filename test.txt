@@ -5,3 +5,5 @@ yellow
 white
 black
 grey
+apple
+water melon
