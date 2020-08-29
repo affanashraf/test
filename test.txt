@@ -7,3 +7,5 @@ black
 grey
 apple
 water melon
+kela
+mango
